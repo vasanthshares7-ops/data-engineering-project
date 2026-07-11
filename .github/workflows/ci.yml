@@ -1,0 +1,6 @@
+name: Data Engineering CI
+
+on:
+  push:
+    branches:
+      - main
