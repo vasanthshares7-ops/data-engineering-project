@@ -1,0 +1,5 @@
+pyspark
+apache-airflow
+boto3
+pytest
+flake8
